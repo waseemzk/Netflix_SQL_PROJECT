@@ -13,6 +13,6 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explore and categorize content based on specific criteria and keywords.
 
 
-## Author - Zero Analyst
+## Author - Waseem Hayajneh
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
